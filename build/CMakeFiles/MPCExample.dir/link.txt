@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic CMakeFiles/MPCExample.dir/src/MPCExample.cpp.o CMakeFiles/MPCExample.dir/src/math.cpp.o -o MPCExample  -Wl,-rpath,/usr/local/lib /usr/local/lib/libOsqpEigen.so.0.8.1 /usr/local/lib/libosqp.so 

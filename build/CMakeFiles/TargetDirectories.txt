@@ -1,0 +1,3 @@
+/home/once/testcode/osqp-eigen-demo/build/CMakeFiles/MPCExample.dir
+/home/once/testcode/osqp-eigen-demo/build/CMakeFiles/edit_cache.dir
+/home/once/testcode/osqp-eigen-demo/build/CMakeFiles/rebuild_cache.dir

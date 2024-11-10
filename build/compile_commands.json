@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/once/testcode/osqp-eigen-demo/build",
+  "command": "/usr/bin/c++ -DOSQP_EIGEN_OSQP_IS_V1 -DOSQP_SHARED_LIB -I/home/once/testcode/osqp-eigen-demo/include -isystem /usr/include/eigen3 -isystem /usr/local/include/osqp -g -std=gnu++14 -o CMakeFiles/MPCExample.dir/src/MPCExample.cpp.o -c /home/once/testcode/osqp-eigen-demo/src/MPCExample.cpp",
+  "file": "/home/once/testcode/osqp-eigen-demo/src/MPCExample.cpp"
+},
+{
+  "directory": "/home/once/testcode/osqp-eigen-demo/build",
+  "command": "/usr/bin/c++ -DOSQP_EIGEN_OSQP_IS_V1 -DOSQP_SHARED_LIB -I/home/once/testcode/osqp-eigen-demo/include -isystem /usr/include/eigen3 -isystem /usr/local/include/osqp -g -std=gnu++14 -o CMakeFiles/MPCExample.dir/src/math.cpp.o -c /home/once/testcode/osqp-eigen-demo/src/math.cpp",
+  "file": "/home/once/testcode/osqp-eigen-demo/src/math.cpp"
+}
+]
